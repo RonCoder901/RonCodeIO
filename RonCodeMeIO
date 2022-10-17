@@ -1,0 +1,4 @@
+start:ProjectName.RonCodeMeIO
+whengetstarted.create.DesktopIconAnimated.(start"newcode")
+"newcode" start 3 , 2 , 1 , 0
+if "0" started then (end"project")
